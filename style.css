@@ -1,0 +1,42 @@
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.input{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.inputText{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    display: flex;
+    margin-left: 43.3%;
+}
